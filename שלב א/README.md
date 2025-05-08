@@ -49,13 +49,13 @@
 בחרנו בשלוש שיטות שונות:
 
 ### 1. הכנסת נתונים ידנית דרך pgAdmin
-![Manual Insert](images/manual_insert.png)
+
 
 ### 2. ייבוא מקובץ CSV
-![CSV Import](images/csv_import.png)
+
 
 ### 3. שימוש בסקריפט Python להפקת פקודות INSERT
-![Python Insert](images/python_insert.png)
+
 
 ---
 
