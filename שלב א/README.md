@@ -174,8 +174,8 @@
 ### בדיקה לפני שינוי  
 ![Before Update](uploads/photo_7_2025-05-13_13-09-44.jpg)
 
-### התחלת טרנזקציה  
-![Transaction Started](uploads/photo_9_2025-05-13_13-09-44.jpg)
+### העלאת שכר לפני ביצוע COMMIT  
+![Increase Salary](uploads/photo_9_2025-05-13_13-09-44.jpg)
 
 ### ביצוע COMMIT  
 ![Commit Executed](uploads/photo_8_2025-05-13_13-09-44.jpg)
