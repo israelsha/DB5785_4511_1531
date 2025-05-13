@@ -170,6 +170,11 @@
 
 ![Not Null](uploads/photo_5_2025-05-13_13-09-44.jpg)
 
+### ביצוע ROLLBACK
+
+
+![Default Trigger](uploads/photo_1_2025-05-13_13-09-44.jpg)
+
 ### התחלת טרנזקציה
 
 
@@ -178,7 +183,7 @@
 ### ביצוע COMMIT
 
 
-![Default Trigger](uploads/photo_1_2025-05-13_13-09-44.jpg)
+![Commit](uploads/photo_8_2025-05-13_13-09-44.jpg)
 
 ---
 
@@ -186,10 +191,8 @@
 ### הפרת אילוץ `CHECK` – שכר נמוך מדי
 
 ![Begin](uploads/photo_7_2025-05-13_13-09-44.jpg)
-### ביצוע ROLLBACK
 
 
-![Commit](uploads/photo_8_2025-05-13_13-09-44.jpg)
 
 ## אילוצים וטריגרים
 
