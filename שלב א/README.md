@@ -163,33 +163,36 @@
 
 ---
 
-## אילוצים וטריגרים
+## שימוש ב־COMMIT ו־ROLLBACK
 
-### הפרת אילוץ `NOT NULL`
+### עדכון זמני
+
 
 ![Not Null](uploads/photo_5_2025-05-13_13-09-44.jpg)
 
-### הפרת אילוץ `CHECK` – שכר נמוך מדי
+### התחלת טרנזקציה
+
 
 ![Check Salary](uploads/photo_9_2025-05-13_13-09-44.jpg)
 
-### טריגר – ערך ברירת מחדל לשעת כניסה
+### ביצוע COMMIT
+
 
 ![Default Trigger](uploads/photo_1_2025-05-13_13-09-44.jpg)
 
 ---
 
-## שימוש ב־COMMIT ו־ROLLBACK
+## אילוצים וטריגרים
 
-### עדכון זמני
+### הפרת אילוץ `NOT NULL`
 
 ![Temporary Update](uploads/photo_6_2025-05-13_13-09-44.jpg)
 
-### התחלת טרנזקציה
+### הפרת אילוץ `CHECK` – שכר נמוך מדי
 
 ![Begin](uploads/photo_7_2025-05-13_13-09-44.jpg)
 
-### ביצוע COMMIT
+### טריגר – ערך ברירת מחדל לשעת כניסה
 
 ![Commit](uploads/photo_8_2025-05-13_13-09-44.jpg)
 
