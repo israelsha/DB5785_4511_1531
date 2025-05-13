@@ -165,47 +165,30 @@
 
 ## שימוש ב־COMMIT ו־ROLLBACK
 
-### עדכון זמני
+### עדכון זמני  
+![Temporary Update](uploads/photo_2_2025-05-13_13-09-44.jpg)
 
+### ביצוע ROLLBACK  
+![Rollback](uploads/photo_4_2025-05-13_13-09-44.jpg)
 
-![Not Null](uploads/photo_5_2025-05-13_13-09-44.jpg)
+### בדיקה לפני שינוי  
+![Before Update](uploads/photo_6_2025-05-13_13-09-44.jpg)
 
-### ביצוע ROLLBACK
+### התחלת טרנזקציה  
+![Begin](uploads/photo_5_2025-05-13_13-09-44.jpg)
 
-
-![Default Trigger](uploads/photo_1_2025-05-13_13-09-44.jpg)
-
-
-### בדיקה לפני שינוי
-![Begin](uploads/photo_7_2025-05-13_13-09-44.jpg)
-
-
-### התחלת טרנזקציה
-
-
-![Check Salary](uploads/photo_9_2025-05-13_13-09-44.jpg)
-
-### ביצוע COMMIT
-
-
+### ביצוע COMMIT  
 ![Commit](uploads/photo_8_2025-05-13_13-09-44.jpg)
 
 ---
 
-
 ## אילוצים וטריגרים
 
-### הפרת אילוץ `CHECK` – שכר נמוך מדי
+### הפרת אילוץ `CHECK` – שכר נמוך מדי  
+![Check Salary](uploads/photo_9_2025-05-13_13-09-44.jpg)
 
-![Temporary Update](uploads/photo_2_2025-05-13_13-09-44.jpg)
+### הפרת אילוץ `NOT NULL`  
+![Not Null](uploads/photo_7_2025-05-13_13-09-44.jpg)
 
-
-### הפרת אילוץ `NOT NULL`
-
-![Temporary Update](uploads/photo_6_2025-05-13_13-09-44.jpg)
-
-
-### טריגר – ערך ברירת מחדל לשעת כניסה
-
-
-![Rollback](uploads/photo_4_2025-05-13_13-09-44.jpg)
+### טריגר – ערך ברירת מחדל לשעת כניסה  
+![Default Trigger](uploads/photo_1_2025-05-13_13-09-44.jpg)
