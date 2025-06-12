@@ -33,19 +33,25 @@
 
 ---
 
-## תרשימי DSD ו-ERD
+## תרשימי DSD ו־ERD
 
-### DSD של האגף שהתקבל
 
-![DSD חדש](images/dsd_friend.png)
+### ERD של המערכת החדשה (שקיבלנו)
 
-### ERD של האגף שהתקבל
+![ERD New](images/erd_friend.png)
 
-![ERD חדש](images/erd_friend.png)
+### DSD של המערכת החדשה (שקיבלנו)
+
+![DSD New](images/dsd_friend.png)
 
 ### ERD משולב לאחר אינטגרציה
 
-![ERD משולב](images/erd_integrated.png)
+![ERD Integrated](images/erd_integrated.png)
+
+### DSD לאחר אינטגרציה
+
+![DSD Integrated](images/dsd_integrated.png)
+
 
 ---
 
