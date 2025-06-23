@@ -138,7 +138,7 @@
 
 #### SELECT * (10 רשומות ראשונות):
 
-![Supplier View](images/view2_select.png)
+![Supplier View](images/view2_create.png)
 
 ---
 
