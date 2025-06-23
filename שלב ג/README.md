@@ -205,7 +205,7 @@
 #### קובץ SQL: `function1_stage_d.sql`  
 #### הוכחה בהרצה:
 
-![func1](func1.png)
+![func1](images/func1.png)
 
 ---
 
@@ -219,7 +219,7 @@
 #### קובץ SQL: `function2_stage_d.sql`  
 #### הוכחה בהרצה:
 
-![func2](func2.png)
+![func2](images/func2.png)
 
 ---
 
@@ -238,7 +238,7 @@
 #### קובץ SQL: `prosedure1.sql`  
 #### הוכחה בהרצה:
 
-![procedure1](prosedure1.png)
+![procedure1](images/prosedure1.png)
 
 ---
 
@@ -251,11 +251,11 @@
 #### קובץ SQL: `prosedure2.sql`  
 #### לפני השינוי:
 
-![before](prosedure2_before.png)
+![before](images/prosedure2_before.png)
 
 #### אחרי השינוי:
 
-![after](prosedure2_after.png)
+![after](images/prosedure2_after.png)
 
 ---
 
@@ -269,7 +269,7 @@
 #### קובץ SQL: `check_price_limit_trigger.sql`  
 #### הוכחה בהרצה:
 
-![trigger1](trigger1.png)
+![trigger1](images/trigger1.png)
 
 ---
 
@@ -282,7 +282,7 @@
 #### קובץ SQL: `trigger2.sql`  
 #### הוכחה בהרצה:
 
-![trigger2](trigger2.png)
+![trigger2](images/trigger2.png)
 
 ---
 
@@ -294,7 +294,7 @@
 
 #### הוכחה בהרצה:
 
-![main1](mian1.png)
+![main1](images/mian1.png)
 
 ---
 
@@ -306,7 +306,7 @@
 
 #### הוכחה בהרצה:
 
-![main2](main2.png)
+![main2](images/main2.png)
 
 ---
 
