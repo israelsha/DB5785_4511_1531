@@ -41,8 +41,8 @@
    ```python
    DB_CONFIG = {
        'dbname': 'DBProject',
-       'user': 'israel_sha',
-       'password': '4321',
+       'user': '...',
+       'password': '*****',
        'host': 'localhost',
        'port': '5432'
    }
